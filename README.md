@@ -1,3 +1,8 @@
+**Description of the project**
+
+This page was designed to manage several tokenomics around $SDOLL token and its features on the smart contract. It was made using React and Solidity. Connection between them through Web3.js.
+
+
 **How to start up the project**
 
 ## NPM
@@ -91,3 +96,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
